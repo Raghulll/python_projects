@@ -1,0 +1,1 @@
+ Through libraries like Pandas, NumPy, and Matplotlib, I've adeptly manipulated data, uncovered trends, and visualized patterns that drive informed decision-making. These projects also showcase my proficiency in handling various data formats, including CSV, JSON, and Excel, while my experience in applying statistical tests and techniques adds depth to my analytical capabilities. 
